@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/wildingelijah/SoftwareEngCapstone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project has not yet been created. In my final year of Software Engineering I will be doing a capstone project with a few other students. We will be spending two semesters creating a video game of some description and upon completion I will upload all of the appropriate files/information to this page. I am very excited to spenda greater portion of time creating a larger scale game than I ever have before.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About The Project
 
-### Markdown
+N/A
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pictures
 
-```markdown
-Syntax highlighted code block
+N/A
 
-# Header 1
-## Header 2
-### Header 3
+## Files
 
-- Bulleted
-- List
+In order to access the files for this project (when they are uploaded) please click "View on GitHub". 
 
-1. Numbered
-2. List
+## Back
 
-**Bold** and _Italic_ and `Code` text
+[Back to main page of portfolio](https://wildingelijah.github.io/)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wildingelijah/SoftwareEngCapstone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
