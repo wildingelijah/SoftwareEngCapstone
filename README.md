@@ -4,9 +4,9 @@ This project is currently in progress. As I am in my final year of Software Engi
 
 ## About The Project
 
-Title: UnderGods
-Genre: Strategy/4X
-Developers: Elijah Wilding, Nathan Coit, Sullivan Stobo, Harrison Lau and Zack Palantzas.
+Title: UnderGods  
+Genre: Strategy/4X  
+Developers: Elijah Wilding, Nathan Coit, Sullivan Stobo, Harrison Lau and Zack Palantzas.  
 
 There are two main modes in our game: management mode and combat mode. Nathan and I are completely responsbile for everything surrounding management mode. Sully and Harri are responsible for combat mode while Zack is doing all of the art assets.
 
