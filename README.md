@@ -1,6 +1,6 @@
 # Introduction
 
-This project is complete. As I have now completed my final year of Software Engineering, I also completed a capstone project with four other students. We spent two semesters creating a video game which we have titled: UnderGods, and now that it has been completed all of the appropriate files/information are available on this page. This was a huge learning experience. Creating a game from start to finish has been one of the most fun and interesting projects I have ever had the privilege of working on.
+As I have now completed my final year of Software Engineering, I also completed a capstone project with four other students. We spent two semesters creating a video game which we have titled: UnderGods. Now that it has been completed, all of the appropriate files/information are available on this page. This was a huge learning experience. Creating a game from start to finish has been one of the most fun and interesting projects I have ever had the privilege of working on.
 
 ## About The Project
 
